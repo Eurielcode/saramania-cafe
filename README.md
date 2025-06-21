@@ -23,13 +23,6 @@ Welcome to the showcase website for *Saramania Café*, a local coffee shop based
 
 ---
 
-## 📸 Preview
-
-
-
-
----
----
 
 ## 📌 About Me
 
